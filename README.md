@@ -1,4 +1,4 @@
-# DwarfURL Bot(Telegram link: https://t.me/DwarfURLBot)
+# DwarfURL Bot(Telegram: @DwarfURLBot)
 The Telegram URL Shortener Bot is a simple and convenient bot that allows you to shorten long URLs into shorter and more manageable ones. This readme file provides an overview of the bot's features, setup instructions, and usage guidelines.
 
 ## Features
